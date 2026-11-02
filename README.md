@@ -1,4 +1,4 @@
-# Jack's Workbench
+# Le Thanh Hoang’s Workbench
 
 A warm, Norse-inspired personal workbench for logistics study, research, revision, and daily notes. It is a static website: no server or build step is required.
 
